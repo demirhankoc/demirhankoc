@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Demirhan</h1>
 <h3 align="center">A passionate Data Scientist in Turkey</h3>
 
-- 🔭 I'm currently working on **Prophet**
+- 🔭 I'm currently working on **Penetration Testing**
 
 - 💬 Ask me about **Data**
 
